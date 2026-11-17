@@ -1,1 +1,2 @@
 Adding some text
+Adding a new line just to have a new commit to try
